@@ -6,8 +6,8 @@
 ### Hi, I'm Javier Camilleri
 
 - 👨‍💻 Coding enthusiast for 1.5+ years
-- 🌐 Explore my [portfolio website](https://www.javiercamilleri.com/){:target="_blank"}
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/javier-camilleri/){:target="_blank"}
+- 🌐 Explore my [portfolio website](https://www.javiercamilleri.com/)
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/javier-camilleri/)
 
   </div>
 </div>
