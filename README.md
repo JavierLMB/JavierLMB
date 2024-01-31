@@ -1,5 +1,3 @@
-<!-- GitHub README.md -->
-
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1;">
 
