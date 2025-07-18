@@ -5,7 +5,7 @@
 
 ### Hi, I'm Javier Camilleri
 
-- 👨‍💻 Coding enthusiast for 2+ years
+- 👨‍💻 Coding enthusiast for 3+ years
 - 🌐 Explore my [portfolio website](https://www.javiercamilleri.com/)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/javier-camilleri/)
 
